@@ -1,0 +1,306 @@
+<doxygenlayout version="1.0">
+    <navindex>
+        <tab id="trained_models" type="usergroup" title="Trained Models" url="@ref omz_models_intel_index">
+            <tab type="usergroup" title="Intel Pre-Trained Models" url="@ref omz_models_intel_index">
+                <tab type="usergroup" title="Object Detection Models" url="">
+                    <tab type="user" title="faster-rcnn-resnet101-coco-sparse-60-0001" url="@ref omz_models_intel_faster_rcnn_resnet101_coco_sparse_60_0001_description_faster_rcnn_resnet101_coco_sparse_60_0001"/>
+                    <tab type="user" title="face-detection-adas-0001" url="@ref omz_models_intel_face_detection_adas_0001_description_face_detection_adas_0001"/>
+                    <tab type="user" title="face-detection-adas-binary-0001" url="@ref omz_models_intel_face_detection_adas_binary_0001_description_face_detection_adas_binary_0001"/>
+                    <tab type="user" title="face-detection-retail-0004" url="@ref omz_models_intel_face_detection_retail_0004_description_face_detection_retail_0004"/>
+                    <tab type="user" title="face-detection-retail-0005" url="@ref omz_models_intel_face_detection_retail_0005_description_face_detection_retail_0005"/>
+                    <tab type="user" title="face-detection-0100" url="@ref omz_models_intel_face_detection_0100_description_face_detection_0100"/>
+                    <tab type="user" title="face-detection-0102" url="@ref omz_models_intel_face_detection_0102_description_face_detection_0102"/>
+                    <tab type="user" title="face-detection-0104" url="@ref omz_models_intel_face_detection_0104_description_face_detection_0104"/>
+                    <tab type="user" title="face-detection-0105" url="@ref omz_models_intel_face_detection_0105_description_face_detection_0105"/>
+                    <tab type="user" title="face-detection-0106" url="@ref omz_models_intel_face_detection_0106_description_face_detection_0106"/>
+                    <tab type="user" title="person-detection-retail-0002" url="@ref omz_models_intel_person_detection_retail_0002_description_person_detection_retail_0002"/>
+                    <tab type="user" title="person-detection-retail-0013" url="@ref omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013"/>
+                    <tab type="user" title="person-detection-action-recognition-0005" url="@ref omz_models_intel_person_detection_action_recognition_0005_description_person_detection_action_recognition_0005"/>
+                    <tab type="user" title="person-detection-action-recognition-0006" url="@ref omz_models_intel_person_detection_action_recognition_0006_description_person_detection_action_recognition_0006"/>
+                    <tab type="user" title="person-detection-action-recognition-teacher-0002" url="@ref omz_models_intel_person_detection_action_recognition_teacher_0002_description_person_detection_action_recognition_teacher_0002"/>
+                    <tab type="user" title="person-detection-raisinghand-recognition-0001" url="@ref omz_models_intel_person_detection_raisinghand_recognition_0001_description_person_detection_raisinghand_recognition_0001"/>
+                    <tab type="user" title="person-detection-0100" url="@ref omz_models_intel_person_detection_0100_description_person_detection_0100"/>
+                    <tab type="user" title="person-detection-0101" url="@ref omz_models_intel_person_detection_0101_description_person_detection_0101"/>
+                    <tab type="user" title="person-detection-0102" url="@ref omz_models_intel_person_detection_0102_description_person_detection_0102"/>
+                    <tab type="user" title="person-detection-0106" url="@ref omz_models_intel_person_detection_0106_description_person_detection_0106"/>
+                    <tab type="user" title="person-detection-asl-0001" url="@ref omz_models_intel_person_detection_asl_0001_description_person_detection_asl_0001"/>
+                    <tab type="user" title="pedestrian-detection-adas-0002" url="@ref omz_models_intel_pedestrian_detection_adas_0002_description_pedestrian_detection_adas_0002"/>
+                    <tab type="user" title="pedestrian-detection-adas-binary-0001" url="@ref omz_models_intel_pedestrian_detection_adas_binary_0001_description_pedestrian_detection_adas_binary_0001"/>
+                    <tab type="user" title="pedestrian-and-vehicle-detector-adas-0001" url="@ref omz_models_intel_pedestrian_and_vehicle_detector_adas_0001_description_pedestrian_and_vehicle_detector_adas_0001"/>
+                    <tab type="user" title="vehicle-detection-adas-0002" url="@ref omz_models_intel_vehicle_detection_adas_0002_description_vehicle_detection_adas_0002"/>
+                    <tab type="user" title="vehicle-detection-adas-binary-0001" url="@ref omz_models_intel_vehicle_detection_adas_binary_0001_description_vehicle_detection_adas_binary_0001"/>
+                    <tab type="user" title="person-vehicle-bike-detection-crossroad-0078" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_0078_description_person_vehicle_bike_detection_crossroad_0078"/>
+                    <tab type="user" title="person-vehicle-bike-detection-crossroad-1016" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_1016_description_person_vehicle_bike_detection_crossroad_1016"/>
+                    <tab type="user" title="product-detection-0001" url="@ref omz_models_intel_product_detection_0001_description_product_detection_0001"/>
+                    <tab type="user" title="vehicle-license-plate-detection-barrier-0106" url="@ref omz_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106"/>
+                    <tab type="user" title="yolo-v2-ava-0001" url="@ref omz_models_intel_yolo_v2_ava_0001_description_yolo_v2_ava_0001"/>
+                    <tab type="user" title="yolo-v2-ava-sparse-35-0001" url="@ref omz_models_intel_yolo_v2_ava_sparse_35_0001_description_yolo_v2_ava_sparse_35_0001"/>
+                    <tab type="user" title="yolo-v2-ava-sparse-70-0001" url="@ref omz_models_intel_yolo_v2_ava_sparse_70_0001_description_yolo_v2_ava_sparse_70_0001"/>
+                    <tab type="user" title="yolo-v2-tiny-ava-0001" url="@ref omz_models_intel_yolo_v2_tiny_ava_0001_description_yolo_v2_tiny_ava_0001"/>
+                    <tab type="user" title="yolo-v2-tiny-ava-sparse-30-0001" url="@ref omz_models_intel_yolo_v2_tiny_ava_sparse_30_0001_description_yolo_v2_tiny_ava_sparse_30_0001"/>
+                    <tab type="user" title="yolo-v2-tiny-ava-sparse-60-0001" url="@ref omz_models_intel_yolo_v2_tiny_ava_sparse_60_0001_description_yolo_v2_tiny_ava_sparse_60_0001"/>
+                    <tab type="user" title="yolo-v2-tiny-vehicle-detection-0001" url="@ref omz_models_intel_yolo_v2_tiny_vehicle_detection_0001_description_yolo_v2_tiny_vehicle_detection_0001"/>
+                </tab>
+                <tab type="usergroup" title="Object Recognition Models" url="">
+                    <tab type="user" title="age-gender-recognition-retail-0013" url="@ref omz_models_intel_age_gender_recognition_retail_0013_description_age_gender_recognition_retail_0013"/>
+                    <tab type="user" title="head-pose-estimation-adas-0001" url="@ref omz_models_intel_head_pose_estimation_adas_0001_description_head_pose_estimation_adas_0001"/>
+                    <tab type="user" title="license-plate-recognition-barrier-0001" url="@ref omz_models_intel_license_plate_recognition_barrier_0001_description_license_plate_recognition_barrier_0001"/>
+                    <tab type="user" title="vehicle-attributes-recognition-barrier-0039" url="@ref omz_models_intel_vehicle_attributes_recognition_barrier_0039_description_vehicle_attributes_recognition_barrier_0039"/>
+                    <tab type="user" title="vehicle-attributes-recognition-barrier-0042" url="@ref omz_models_intel_vehicle_attributes_recognition_barrier_0042_description_vehicle_attributes_recognition_barrier_0042"/>
+                    <tab type="user" title="emotions-recognition-retail-0003" url="@ref omz_models_intel_emotions_recognition_retail_0003_description_emotions_recognition_retail_0003"/>
+                    <tab type="user" title="landmarks-regression-retail-0009" url="@ref omz_models_intel_landmarks_regression_retail_0009_description_landmarks_regression_retail_0009"/>
+                    <tab type="user" title="facial-landmarks-35-adas-0002" url="@ref omz_models_intel_facial_landmarks_35_adas_0002_description_facial_landmarks_35_adas_0002"/>
+                    <tab type="user" title="person-attributes-recognition-crossroad-0230" url="@ref omz_models_intel_person_attributes_recognition_crossroad_0230_description_person_attributes_recognition_crossroad_0230"/>
+                    <tab type="user" title="gaze-estimation-adas-0002" url="@ref omz_models_intel_gaze_estimation_adas_0002_description_gaze_estimation_adas_0002"/>
+                </tab>
+                <tab type="usergroup" title="Reidentification Models" url="">
+                    <tab type="user" title="person-reidentification-retail-0248" url="@ref omz_models_intel_person_reidentification_retail_0248_description_person_reidentification_retail_0248"/>
+                    <tab type="user" title="person-reidentification-retail-0265" url="@ref omz_models_intel_person_reidentification_retail_0265_description_person_reidentification_retail_0265"/>
+                    <tab type="user" title="person-reidentification-retail-0267" url="@ref omz_models_intel_person_reidentification_retail_0267_description_person_reidentification_retail_0267"/>
+                    <tab type="user" title="person-reidentification-retail-0270" url="@ref omz_models_intel_person_reidentification_retail_0270_description_person_reidentification_retail_0270"/>
+                </tab>
+                <tab type="usergroup" title="Semantic Segmentation Models" url="">
+                    <tab type="user" title="road-segmentation-adas-0001" url="@ref omz_models_intel_road_segmentation_adas_0001_description_road_segmentation_adas_0001"/>
+                    <tab type="user" title="semantic-segmentation-adas-0001" url="@ref omz_models_intel_semantic_segmentation_adas_0001_description_semantic_segmentation_adas_0001"/>
+                    <tab type="user" title="icnet-camvid-ava-0001" url="@ref omz_models_intel_icnet_camvid_ava_0001_description_icnet_camvid_ava_0001"/>
+                    <tab type="user" title="icnet-camvid-ava-sparse-30-0001" url="@ref omz_models_intel_icnet_camvid_ava_sparse_30_0001_description_icnet_camvid_ava_sparse_30_0001"/>
+                    <tab type="user" title="icnet-camvid-ava-sparse-60-0001" url="@ref omz_models_intel_icnet_camvid_ava_sparse_60_0001_description_icnet_camvid_ava_sparse_60_0001"/>
+                    <tab type="user" title="unet-camvid-onnx-0001" url="@ref omz_models_intel_unet_camvid_onnx_0001_description_unet_camvid_onnx_0001"/>
+                </tab>
+                <tab type="usergroup" title="Instance Segmentation Models" url="">
+                    <tab type="user" title="instance-segmentation-security-0050" url="@ref omz_models_intel_instance_segmentation_security_0050_description_instance_segmentation_security_0050"/>
+                    <tab type="user" title="instance-segmentation-security-0083" url="@ref omz_models_intel_instance_segmentation_security_0083_description_instance_segmentation_security_0083"/>
+                    <tab type="user" title="instance-segmentation-security-0010" url="@ref omz_models_intel_instance_segmentation_security_0010_description_instance_segmentation_security_0010"/>
+                    <tab type="user" title="instance-segmentation-security-1025" url="@ref omz_models_intel_instance_segmentation_security_1025_description_instance_segmentation_security_1025"/>
+                </tab>
+                <tab type="usergroup" title="Human Pose Estimation Models" url="">
+                    <tab type="user" title="human-pose-estimation-0001" url="@ref omz_models_intel_human_pose_estimation_0001_description_human_pose_estimation_0001"/>
+                </tab>
+                <tab type="usergroup" title="Image Processing" url="">
+                    <tab type="user" title="single-image-super-resolution-1032" url="@ref omz_models_intel_single_image_super_resolution_1032_description_single_image_super_resolution_1032"/>
+                    <tab type="user" title="single-image-super-resolution-1033" url="@ref omz_models_intel_single_image_super_resolution_1033_description_single_image_super_resolution_1033"/>
+                    <tab type="user" title="text-image-super-resolution-0001" url="@ref omz_models_intel_text_image_super_resolution_0001_description_text_image_super_resolution_0001"/>
+                </tab>
+                <tab type="usergroup" title="Text Detection" url="">
+                    <tab type="user" title="text-detection-0003" url="@ref omz_models_intel_text_detection_0003_description_text_detection_0003"/>
+                    <tab type="user" title="text-detection-0004" url="@ref omz_models_intel_text_detection_0004_description_text_detection_0004"/>
+                </tab>
+                <tab type="usergroup" title="Text Recognition" url="">
+                    <tab type="user" title="text-recognition-0012" url="@ref omz_models_intel_text_recognition_0012_description_text_recognition_0012"/>
+                    <tab type="user" title="handwritten-score-recognition-0003" url="@ref omz_models_intel_handwritten_score_recognition_0003_description_handwritten_score_recognition_0003"/>
+                    <tab type="user" title="handwritten-japanese-recognition-0001" url="@ref omz_models_intel_handwritten_japanese_recognition_0001_description_handwritten_japanese_recognition_0001"/>
+                </tab>
+                <tab type="usergroup" title="Text Spotting" url="">
+                    <tab type="user" title="text-spotting-0002" url="@ref omz_models_intel_text_spotting_0002_description_text_spotting_0002"/>
+                </tab>
+                <tab type="usergroup" title="Action Recognition Models" url="">
+                    <tab type="user" title="driver-action-recognition-adas-0002" url="@ref omz_models_intel_driver_action_recognition_adas_0002_description_driver_action_recognition_adas_0002"/>
+                    <tab type="user" title="action-recognition-0001" url="@ref omz_models_intel_action_recognition_0001_description_action_recognition_0001"/>
+                    <tab type="user" title="asl-recognition-0004" url="@ref omz_models_intel_asl_recognition_0004_description_asl_recognition_0004"/>
+                    <tab type="user" title="weld-porosity-detection-0001" url="@ref omz_models_intel_weld_porosity_detection_0001_description_weld_porosity_detection_0001"/>                    
+                </tab>
+                <tab type="usergroup" title="Image Retrieval" url="">
+                    <tab type="user" title="image-retrieval-0001" url="@ref omz_models_intel_image_retrieval_0001_description_image_retrieval_0001"/>
+                </tab>
+                <tab type="usergroup" title="Compressed Models" url="">
+                    <tab type="user" title="resnet50-binary-0001" url="@ref omz_models_intel_resnet50_binary_0001_description_resnet50_binary_0001"/>
+                    <tab type="user" title="resnet18-xnor-binary-onnx-0001" url="@ref omz_models_intel_resnet18_xnor_binary_onnx_0001_description_resnet18_xnor_binary_onnx_0001"/>
+                </tab>
+                <tab type="usergroup" title="Question Answering" url="">
+                    <tab type="user" title="bert-large-uncased-whole-word-masking-squad-fp32-0001" url="@ref omz_models_intel_bert_large_uncased_whole_word_masking_squad_fp32_0001_description_bert_large_uncased_whole_word_masking_squad_fp32_0001"/>
+                    <tab type="user" title="bert-large-uncased-whole-word-masking-squad-int8-0001" url="@ref omz_models_intel_bert_large_uncased_whole_word_masking_squad_int8_0001_description_bert_large_uncased_whole_word_masking_squad_int8_0001"/>
+                    <tab type="user" title="bert-small-uncased-whole-word-masking-squad-0001" url="@ref omz_models_intel_bert_small_uncased_whole_word_masking_squad_0001_description_bert_small_uncased_whole_word_masking_squad_0001"/>
+                </tab>
+            </tab>
+            <tab type="usergroup" title="Public Pre-trained Models Available with OpenVINO™ from Open Model Zoo" url="@ref omz_models_public_index">
+                <tab type="usergroup" title="Classification" url="">
+                    <tab type="user" title="AlexNet" url="@ref omz_models_public_alexnet_alexnet"/>
+                    <tab type="user" title="CaffeNet" url="@ref omz_models_public_caffenet_caffenet"/>
+                    <tab type="user" title="DenseNet 121" url="@ref omz_models_public_densenet_121_densenet_121"/>
+                    <tab type="user" title="densenet-121-tf" url="@ref omz_models_public_densenet_121_tf_densenet_121_tf"/>
+                    <tab type="user" title="densenet-121-caffe2" url="@ref omz_models_public_densenet_121_caffe2_densenet_121_caffe2"/>
+                    <tab type="user" title="DenseNet 161" url="@ref omz_models_public_densenet_161_densenet_161"/>
+                    <tab type="user" title="densenet-161-tf" url="@ref omz_models_public_densenet_161_tf_densenet_161_tf"/>
+                    <tab type="user" title="DenseNet 169" url="@ref omz_models_public_densenet_169_densenet_169"/>
+                    <tab type="user" title="densenet-169-tf" url="@ref omz_models_public_densenet_169_tf_densenet_169_tf"/>
+                    <tab type="user" title="DenseNet 201" url="@ref omz_models_public_densenet_201_densenet_201"/>
+                    <tab type="user" title="EfficientNet B0" url="@ref omz_models_public_efficientnet_b0_efficientnet_b0"/>
+                    <tab type="user" title="efficientnet-b0-pytorch" url="@ref omz_models_public_efficientnet_b0_pytorch_efficientnet_b0_pytorch"/>
+                    <tab type="user" title="EfficientNet B0 AutoAugment" url="@ref omz_models_public_efficientnet_b0_auto_aug_efficientnet_b0_auto_aug"/>
+                    <tab type="user" title="EfficientNet B5" url="@ref omz_models_public_efficientnet_b5_efficientnet_b5"/>
+                    <tab type="user" title="efficientnet-b5-pytorch" url="@ref omz_models_public_efficientnet_b5_pytorch_efficientnet_b5_pytorch"/>
+                    <tab type="user" title="EfficientNet B7" url="@ref omz_models_public_efficientnet_b7_pytorch_efficientnet_b7_pytorch"/>
+                    <tab type="user" title="EfficientNet B7 AutoAugment" url="@ref omz_models_public_efficientnet_b7_auto_aug_efficientnet_b7_auto_aug"/>
+                    <tab type="user" title="HBONet 1.0" url="@ref omz_models_public_hbonet_1_0_hbonet_1_0"/>
+                    <tab type="user" title="HBONet 0.5" url="@ref omz_models_public_hbonet_0_5_hbonet_0_5"/>
+                    <tab type="user" title="HBONet 0.25" url="@ref omz_models_public_hbonet_0_25_hbonet_0_25"/>
+                    <tab type="user" title="Inception (GoogleNet) V1" url="@ref omz_models_public_googlenet_v1_googlenet_v1"/>
+                    <tab type="user" title="googlenet-v1-tf" url="@ref omz_models_public_googlenet_v1_tf_googlenet_v1_tf"/>
+                    <tab type="user" title="Inception (GoogleNet) V2" url="@ref omz_models_public_googlenet_v2_googlenet_v2"/>
+                    <tab type="user" title="googlenet-v2-tf" url="@ref omz_models_public_googlenet_v2_tf_googlenet_v2_tf"/>
+                    <tab type="user" title="Inception (GoogleNet) V3" url="@ref omz_models_public_googlenet_v3_googlenet_v3"/>
+                    <tab type="user" title="googlenet-v3-pytorch" url="@ref omz_models_public_googlenet_v3_pytorch_googlenet_v3_pytorch"/>
+                    <tab type="user" title="Inception (GoogleNet) V4" url="@ref omz_models_public_googlenet_v4_tf_googlenet_v4_tf"/>
+                    <tab type="user" title="Inception-ResNet V2" url="@ref omz_models_public_inception_resnet_v2_tf_inception_resnet_v2_tf"/>
+                    <tab type="user" title="MobileNet V1 0.25 128" url="@ref omz_models_public_mobilenet_v1_0_25_128_mobilenet_v1_0_25_128"/>
+                    <tab type="user" title="MobileNet V1 0.5 160" url="@ref omz_models_public_mobilenet_v1_0_50_160_mobilenet_v1_0_50_160"/>
+                    <tab type="user" title="MobileNet V1 0.5 224" url="@ref omz_models_public_mobilenet_v1_0_50_224_mobilenet_v1_0_50_224"/>
+                    <tab type="user" title="MobileNet V1 1.0 224" url="@ref omz_models_public_mobilenet_v1_1_0_224_mobilenet_v1_1_0_224"/>
+                    <tab type="user" title="mobilenet-v1-1.0-224-tf" url="@ref omz_models_public_mobilenet_v1_1_0_224_tf_mobilenet_v1_1_0_224_tf"/>
+                    <tab type="user" title="MobileNet V2 1.0 224" url="@ref omz_models_public_mobilenet_v2_mobilenet_v2"/>
+                    <tab type="user" title="mobilenet-v2-1.0-224" url="@ref omz_models_public_mobilenet_v2_1_0_224_mobilenet_v2_1_0_224"/>
+                    <tab type="user" title="mobilenet-v2-pytorch" url="@ref omz_models_public_mobilenet_v2_pytorch_mobilenet_v2_pytorch"/>
+                    <tab type="user" title="MobileNet V2 1.4 224" url="@ref omz_models_public_mobilenet_v2_1_4_224_mobilenet_v2_1_4_224"/>
+                    <tab type="user" title="MobileNet V3 Small 1.0" url="@ref omz_models_public_mobilenet_v3_small_1_0_224_tf_mobilenet_v3_small_1_0_224_tf"/>
+                    <tab type="user" title="MobileNet V3 Large 1.0" url="@ref omz_models_public_mobilenet_v3_large_1_0_224_tf_mobilenet_v3_large_1_0_224_tf"/>
+                    <tab type="user" title="DenseNet 121, alpha=0.125" url="@ref omz_models_public_octave_densenet_121_0_125_octave_densenet_121_0_125"/>
+                    <tab type="user" title="ResNet 26, alpha=0.25" url="@ref omz_models_public_octave_resnet_26_0_25_octave_resnet_26_0_25"/>
+                    <tab type="user" title="ResNet 50, alpha=0.125" url="@ref omz_models_public_octave_resnet_50_0_125_octave_resnet_50_0_125"/>
+                    <tab type="user" title="ResNet 101, alpha=0.125" url="@ref omz_models_public_octave_resnet_101_0_125_octave_resnet_101_0_125"/>
+                    <tab type="user" title="ResNet 200, alpha=0.125" url="@ref omz_models_public_octave_resnet_200_0_125_octave_resnet_200_0_125"/>
+                    <tab type="user" title="ResNeXt 50, alpha=0.25" url="@ref omz_models_public_octave_resnext_50_0_25_octave_resnext_50_0_25"/>
+                    <tab type="user" title="ResNeXt 101, alpha=0.25" url="@ref omz_models_public_octave_resnext_101_0_25_octave_resnext_101_0_25"/>
+                    <tab type="user" title="SE-ResNet 50, alpha=0.125" url="@ref omz_models_public_octave_se_resnet_50_0_125_octave_se_resnet_50_0_125"/>
+                    <tab type="user" title="open-closed-eye-0001" url="@ref omz_models_public_open_closed_eye_0001_description_open_closed_eye_0001"/>
+                    <tab type="user" title="ResNet 18" url="@ref omz_models_public_resnet_18_pytorch_resnet_18_pytorch"/>
+                    <tab type="user" title="ResNet 34" url="@ref omz_models_public_resnet_34_pytorch_resnet_34_pytorch"/>
+                    <tab type="user" title="ResNet 50" url="@ref omz_models_public_resnet_50_resnet_50"/>
+                    <tab type="user" title="resnet-50-pytorch" url="@ref omz_models_public_resnet_50_pytorch_resnet_50_pytorch"/>
+                    <tab type="user" title="resnet-50-caffe2" url="@ref omz_models_public_resnet_50_caffe2_resnet_50_caffe2"/>
+                    <tab type="user" title="resnet-50-tf" url="@ref omz_models_public_resnet_50_tf_resnet_50_tf"/>
+                    <tab type="user" title="ResNet 101" url="@ref omz_models_public_resnet_101_resnet_101"/>
+                    <tab type="user" title="ResNet 152" url="@ref omz_models_public_resnet_152_resnet_152"/>
+                    <tab type="user" title="SE-Inception" url="@ref omz_models_public_se_inception_se_inception"/>
+                    <tab type="user" title="SE-ResNet 50" url="@ref omz_models_public_se_resnet_50_se_resnet_50"/>
+                    <tab type="user" title="SE-ResNet 101" url="@ref omz_models_public_se_resnet_101_se_resnet_101"/>
+                    <tab type="user" title="SE-ResNet 152" url="@ref omz_models_public_se_resnet_152_se_resnet_152"/>
+                    <tab type="user" title="SE-ResNeXt 50" url="@ref omz_models_public_se_resnext_50_se_resnext_50"/>
+                    <tab type="user" title="SE-ResNeXt 101" url="@ref omz_models_public_se_resnext_101_se_resnext_101"/>
+                    <tab type="user" title="SqueezeNet v1.0" url="@ref omz_models_public_squeezenet1_0_squeezenet1_0"/>
+                    <tab type="user" title="SqueezeNet v1.1" url="@ref omz_models_public_squeezenet1_1_squeezenet1_1"/>
+                    <tab type="user" title="squeezenet1.1-caffe2" url="@ref omz_models_public_squeezenet1_1_caffe2_squeezenet1_1_caffe2"/>
+                    <tab type="user" title="VGG 16" url="@ref omz_models_public_vgg16_vgg16"/>
+                    <tab type="user" title="VGG 19" url="@ref omz_models_public_vgg19_vgg19"/>
+                    <tab type="user" title="vgg19-caffe2" url="@ref omz_models_public_vgg19_caffe2_vgg19_caffe2"/>
+                </tab>
+                <tab type="usergroup" title="Segmentation" url="">
+                    <tab type="usergroup" title="Semantic Segmentation" url="">
+                        <tab type="user" title="DeepLab V3" url="@ref omz_models_public_deeplabv3_deeplabv3"/>
+                    </tab>
+                    <tab type="usergroup" title="Instance Segmentation" url="">
+                        <tab type="user" title="Mask R-CNN Inception ResNet V2" url="@ref omz_models_public_mask_rcnn_inception_resnet_v2_atrous_coco_mask_rcnn_inception_resnet_v2_atrous_coco"/>
+                        <tab type="user" title="Mask R-CNN Inception V2" url="@ref omz_models_public_mask_rcnn_inception_v2_coco_mask_rcnn_inception_v2_coco"/>
+                        <tab type="user" title="Mask R-CNN ResNet 50" url="@ref omz_models_public_mask_rcnn_resnet50_atrous_coco_mask_rcnn_resnet50_atrous_coco"/>
+                        <tab type="user" title="Mask R-CNN ResNet 101" url="@ref omz_models_public_mask_rcnn_resnet101_atrous_coco_mask_rcnn_resnet101_atrous_coco"/>
+                    </tab>
+                    <tab type="usergroup" title="3D Semantic Segmentation" url="">
+                        <tab type="user" title="Brain Tumor Segmentation" url="@ref omz_models_public_brain_tumor_segmentation_0001_brain_tumor_segmentation_0001"/>
+                        <tab type="user" title="Brain Tumor Segmentation 2" url="@ref omz_models_public_brain_tumor_segmentation_0002_brain_tumor_segmentation_0002"/>
+                    </tab>
+                </tab>
+                <tab type="usergroup" title="Object Detection" url="">
+                    <tab type="user" title="CTPN" url="@ref omz_models_public_ctpn_ctpn"/>
+                    <tab type="user" title="CenterNet (CTDET with DLAV0) 384x384" url="@ref omz_models_public_ctdet_coco_dlav0_384_ctdet_coco_dlav0_384"/>
+                    <tab type="user" title="CenterNet (CTDET with DLAV0) 512x512" url="@ref omz_models_public_ctdet_coco_dlav0_512_ctdet_coco_dlav0_512"/>
+                    <tab type="user" title="FaceBoxes" url="@ref omz_models_public_faceboxes_pytorch_faceboxes_pytorch"/>
+                    <tab type="user" title="Faster R-CNN with Inception-ResNet v2" url="@ref omz_models_public_faster_rcnn_inception_resnet_v2_atrous_coco_faster_rcnn_inception_resnet_v2_atrous_coco"/>
+                    <tab type="user" title="Faster R-CNN with Inception v2" url="@ref omz_models_public_faster_rcnn_inception_v2_coco_faster_rcnn_inception_v2_coco"/>
+                    <tab type="user" title="Faster R-CNN with ResNet 50" url="@ref omz_models_public_faster_rcnn_resnet50_coco_faster_rcnn_resnet50_coco"/>
+                    <tab type="user" title="Faster R-CNN with ResNet 101" url="@ref omz_models_public_faster_rcnn_resnet101_coco_faster_rcnn_resnet101_coco"/>
+                    <tab type="user" title="MobileFace Detection V1" url="@ref omz_models_public_mobilefacedet_v1_mxnet_mobilefacedet_v1_mxnet"/>
+                    <tab type="user" title="MTCNN" url="@ref omz_models_public_mtcnn_mtcnn"/>
+                    <tab type="user" title="Pelee" url="@ref omz_models_public_pelee_coco_pelee_coco"/>
+                    <tab type="user" title="RetinaNet with Resnet 50" url="@ref omz_models_public_retinanet_tf_retinanet_tf"/>
+                    <tab type="user" title="R-FCN with Resnet-101" url="@ref omz_models_public_rfcn_resnet101_coco_tf_rfcn_resnet101_coco_tf"/>
+                    <tab type="user" title="SSD 300" url="@ref omz_models_public_ssd300_ssd300"/>
+                    <tab type="user" title="SSD 512" url="@ref omz_models_public_ssd512_ssd512"/>
+                    <tab type="user" title="SSD with MobileNet" url="@ref omz_models_public_mobilenet_ssd_mobilenet_ssd"/>
+                    <tab type="user" title="ssd_mobilenet_v1_coco" url="@ref omz_models_public_ssd_mobilenet_v1_coco_ssd_mobilenet_v1_coco"/>
+                    <tab type="user" title="SSD with MobileNet FPN" url="@ref omz_models_public_ssd_mobilenet_v1_fpn_coco_ssd_mobilenet_v1_fpn_coco"/>
+                    <tab type="user" title="SSD with MobileNet V2" url="@ref omz_models_public_ssd_mobilenet_v2_coco_ssd_mobilenet_v2_coco"/>
+                    <tab type="user" title="SSD lite with MobileNet V2" url="@ref omz_models_public_ssdlite_mobilenet_v2_ssdlite_mobilenet_v2"/>
+                    <tab type="user" title="SSD with ResNet-50 V1 FPN" url="@ref omz_models_public_ssd_resnet50_v1_fpn_coco_ssd_resnet50_v1_fpn_coco"/>
+                    <tab type="user" title="SSD with ResNet 34 1200x1200" url="@ref omz_models_public_ssd_resnet34_1200_onnx_ssd_resnet34_1200_onnx"/>
+                    <tab type="user" title="RetinaFace-R50" url="@ref omz_models_public_retinaface_resnet50_retinaface_resnet50"/>
+                    <tab type="user" title="RetinaFace-Anti-Cov" url="@ref omz_models_public_retinaface_anti_cov_retinaface_anti_cov"/>
+                    <tab type="user" title="YOLO v1 Tiny" url="@ref omz_models_public_yolo_v1_tiny_tf_yolo_v1_tiny_tf"/>
+                    <tab type="user" title="YOLO v2 Tiny" url="@ref omz_models_public_yolo_v2_tiny_tf_yolo_v2_tiny_tf"/>
+                    <tab type="user" title="YOLO v2" url="@ref omz_models_public_yolo_v2_tf_yolo_v2_tf"/>
+                    <tab type="user" title="YOLO v3" url="@ref omz_models_public_yolo_v3_tf_yolo_v3_tf"/>
+                </tab>
+                <tab type="usergroup" title="Face Recognition" url="">
+                    <tab type="user" title="FaceNet" url="@ref omz_models_public_facenet_20180408_102900_facenet_20180408_102900"/>
+                    <tab type="user" title="LResNet34E-IR,ArcFace@ms1m-refine-v1" url="@ref omz_models_public_face_recognition_resnet34_arcface_face_recognition_resnet34_arcface"/>
+                    <tab type="user" title="LResNet50E-IR,ArcFace@ms1m-refine-v1" url="@ref omz_models_public_face_recognition_resnet50_arcface_face_recognition_resnet50_arcface"/>
+                    <tab type="user" title="LResNet100E-IR,ArcFace@ms1m-refine-v2" url="@ref omz_models_public_face_recognition_resnet100_arcface_face_recognition_resnet100_arcface"/>
+                    <tab type="user" title="MobileFaceNet,ArcFace@ms1m-refine-v1" url="@ref omz_models_public_face_recognition_mobilefacenet_arcface_face_recognition_mobilefacenet_arcface"/>
+                    <tab type="user" title="SphereFace" url="@ref omz_models_public_Sphereface_Sphereface"/>
+                </tab>
+                <tab type="usergroup" title="Human Pose Estimation" url="">
+                    <tab type="user" title="human-pose-estimation-3d-0001" url="@ref omz_models_public_human_pose_estimation_3d_0001_description_human_pose_estimation_3d_0001"/>
+                    <tab type="user" title="single-human-pose-estimation-0001" url="@ref omz_models_public_single_human_pose_estimation_0001_description_single_human_pose_estimation_0001"/>
+                </tab>
+                <tab type="usergroup" title="Monocular Depth Estimation" url="">
+                    <tab type="user" title="midasnet" url="@ref omz_models_public_midasnet_midasnet"/>
+                </tab>
+                <tab type="usergroup" title="Image Inpainting" url="">
+                    <tab type="user" title="GMCNN Inpainting" url="@ref omz_models_public_gmcnn_places2_tf_gmcnn_places2_tf"/>
+                </tab>
+                <tab type="usergroup" title="Style Transfer" url="">
+                    <tab type="user" title="fast-neural-style-mosaic-onnx" url="@ref omz_models_public_fast_neural_style_mosaic_onnx_fast_neural_style_mosaic_onnx"/>
+                </tab>
+                <tab type="usergroup" title="Action Recognition" url="">
+                    <tab type="user" title="RGB-I3D, pretrained on ImageNet\*" url="@ref omz_models_public_i3d_rgb_tf_i3d_rgb_tf"/>
+                </tab>
+                <tab type="Colorization" title="Colorization" url="">
+                    <tab type="user" title="colorization-v2" url="@ref omz_models_public_colorization_v2_colorization_v2"/>
+                    <tab type="user" title="colorization-v2-norebal" url="@ref omz_models_public_colorization_v2_norebal_colorization_v2_norebal"/>
+                </tab>
+            </tab>
+        </tab>
+        <tab id="application_demos" type="usergroup" title="Application Demos" url="@ref omz_demos_README">
+            <tab type="user" title="Crossroad Camera C++ Demo" url="@ref omz_demos_crossroad_camera_demo_README"/>
+            <tab type="user" title="Colorization Python Demo" url="@ref omz_demos_python_demos_colorization_demo_README"/>
+            <tab type="user" title="Image Inpainting Python Demo" url="@ref omz_demos_python_demos_image_inpainting_demo_README"/>
+            <tab type="user" title="Monodepth Python* Demo" url="@ref omz_demos_python_demos_monodepth_demo_README"/>
+            <tab type="user" title="Interactive Face Detection C++ Demo" url="@ref omz_demos_interactive_face_detection_demo_README"/>
+            <tab type="user" title="TensorFlow* Object Detection Mask R-CNNs Segmentation Demo" url="@ref omz_demos_mask_rcnn_demo_README"/>
+            <tab type="usergroup" title="Multi-Channel Demos" url="@ref omz_demos_multi_channel_README">
+                <tab type="user" title="Multi-Channel Face Detection C++ Demo" url="@ref omz_demos_multi_channel_face_detection_demo_README"/>
+                <tab type="user" title="Multi-Channel Human Pose Estimation C++ Demo" url="@ref omz_demos_multi_channel_human_pose_estimation_demo_README"/>
+                <tab type="user" title="Multi-Channel Object Detection YOLO* V3 C++ Demo" url="@ref omz_demos_multi_channel_object_detection_demo_yolov3_README"/>
+            </tab>
+            <tab type="user" title="Object Detection Faster R-CNN Demo" url="@ref omz_demos_object_detection_demo_faster_rcnn_README"/>
+            <tab type="user" title="Object Detection for RetinaFace Python* Demo" url="@ref omz_demos_python_demos_object_detection_demo_retinaface_README"/>
+            <tab type="user" title="Object Detection for CenterNet Python* Demo" url="@ref omz_demos_python_demos_object_detection_demo_centernet_README"/>
+            <tab type="user" title="Object Detection SSD C++ Demo, Async API Performance Showcase" url="@ref omz_demos_object_detection_demo_ssd_async_README"/>
+            <tab type="user" title="Object Detection SSD Python* Demo, Async API Performance Showcase" url="@ref omz_demos_python_demos_object_detection_demo_ssd_async_README"/>
+            <tab type="user" title="Security Barrier Camera Demo" url="@ref omz_demos_security_barrier_camera_demo_README"/>
+            <tab type="user" title="Image Segmentation C++ Demo" url="@ref omz_demos_segmentation_demo_README"/>
+            <tab type="user" title="Single Human Pose Estimation Python* Demo" url="@ref omz_demos_python_demos_single_human_pose_estimation_demo_README"/>
+            <tab type="user" title="Image Segmentation Python* Demo" url="@ref omz_demos_python_demos_segmentation_demo_README"/>
+            <tab type="user" title="Smart Classroom Demo" url="@ref omz_demos_smart_classroom_demo_README"/>
+            <tab type="user" title="Text Detection Demo" url="@ref omz_demos_text_detection_demo_README"/>
+            <tab type="user" title="Text Spotting Python* Demo" url="@ref omz_demos_python_demos_text_spotting_demo_README"/>
+            <tab type="user" title="Handwritten Japanese Recognition Python* Demo" url="@ref omz_demos_python_demos_handwritten_japanese_recognition_demo_README"/>
+            <tab type="user" title="Gaze Estimation Demo" url="@ref omz_demos_gaze_estimation_demo_README"/>
+            <tab type="user" title="Human Pose Estimation Demo" url="@ref omz_demos_human_pose_estimation_demo_README"/>
+            <tab type="user" title="3D Human Pose Estimation Python* Demo" url="@ref omz_demos_python_demos_human_pose_estimation_3d_demo_README"/>
+            <tab type="user" title="Pedestrian Tracker Demo" url="@ref omz_demos_pedestrian_tracker_demo_README"/>
+            <tab type="user" title="Super Resolution Demo" url="@ref omz_demos_super_resolution_demo_README"/>
+            <tab type="user" title="Object Detection YOLO* V3 C++ Demo, Async API Performance Showcase" url="@ref omz_demos_object_detection_demo_yolov3_async_README"/>
+            <tab type="user" title="Object Detection YOLO* V3 Python* Demo, Async API Performance Showcase" url="@ref omz_demos_python_demos_object_detection_demo_yolov3_async_README"/>
+            <tab type="user" title="Action Recognition Demo" url="@ref omz_demos_python_demos_action_recognition_README"/>
+            <tab type="user" title="Instance Segmentation Demo" url="@ref omz_demos_python_demos_instance_segmentation_demo_README"/>
+            <tab type="user" title="3D Segmentation Demo" url="@ref omz_demos_python_demos_3d_segmentation_demo_README"/>
+            <tab type="user" title="Image Retrieval Python* Demo" url="@ref omz_demos_python_demos_image_retrieval_demo_README"/>
+            <tab type="user" title="Multi-Camera Multi-Target Tracking Python* Demo" url="@ref omz_demos_python_demos_multi_camera_multi_target_tracking_README"/>
+            <tab type="usergroup" title="Speech Library and Speech Recognition Demos" url="@ref openvino_inference_engine_samples_speech_libs_and_demos_Speech_libs_and_demos">
+                <tab type="user" title="Speech Library" url="@ref openvino_inference_engine_samples_speech_libs_and_demos_Speech_library"/>
+                <tab type="user" title="Offline Speech Recognition Demo" url="@ref openvino_inference_engine_samples_speech_libs_and_demos_Offline_speech_recognition_demo"/>
+                <tab type="user" title="Live Speech Recognition Demo" url="@ref openvino_inference_engine_samples_speech_libs_and_demos_Live_speech_recognition_demo"/>
+                <tab type="user" title="Kaldi* Statistical Language Model Conversion Tool" url="@ref openvino_inference_engine_samples_speech_libs_and_demos_Kaldi_SLM_conversion_tool"/>
+            </tab>
+        </tab>    
+    </navindex>
+</doxygenlayout>
