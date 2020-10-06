@@ -11,7 +11,7 @@
                     <tab type="user" title="face-detection-0202" url="@ref omz_models_intel_face_detection_0202_description_face_detection_0202"/>
                     <tab type="user" title="face-detection-0204" url="@ref omz_models_intel_face_detection_0204_description_face_detection_0204"/>
                     <tab type="user" title="face-detection-0205" url="@ref omz_models_intel_face_detection_0205_description_face_detection_0205"/>
-                    <tab type="user" title="face-detection-0206" url="@ref omz_models_intel_face_detection_0106_description_face_detection_0206"/>
+                    <tab type="user" title="face-detection-0206" url="@ref omz_models_intel_face_detection_0206_description_face_detection_0206"/>
                     <tab type="user" title="person-detection-retail-0002" url="@ref omz_models_intel_person_detection_retail_0002_description_person_detection_retail_0002"/>
                     <tab type="user" title="person-detection-retail-0013" url="@ref omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013"/>
                     <tab type="user" title="person-detection-action-recognition-0005" url="@ref omz_models_intel_person_detection_action_recognition_0005_description_person_detection_action_recognition_0005"/>
