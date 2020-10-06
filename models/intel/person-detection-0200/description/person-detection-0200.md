@@ -1,4 +1,4 @@
-# person-detection-0200
+# person-detection-0200 {#omz_models_intel_person_detection_0200_description_person_detection_0200}
 
 ## Use Case and High-Level Description
 

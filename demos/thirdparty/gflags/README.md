@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gflags/gflags.svg?branch=master)](https://travis-ci.org/gflags/gflags)
+[![Build Status](https://travis-ci.org/gflags/gflags.svg?branch=master)](https://travis-ci.org/gflags/gflags) {#omz_demos_thirdparty_gflags_README}
 [![Build status](https://ci.appveyor.com/api/projects/status/4ctod566ysraus74/branch/master?svg=true)](https://ci.appveyor.com/project/schuhschuh/gflags/branch/master)
 
 The documentation of the gflags library is available online at https://gflags.github.io/gflags/.

@@ -1,4 +1,4 @@
-# text-detection-0003
+# text-detection-0003 {#omz_models_intel_horizontal_text_detection_0001_description_horizontal_text_detection_0001}
 
 ## Use Case and High-Level Description
 

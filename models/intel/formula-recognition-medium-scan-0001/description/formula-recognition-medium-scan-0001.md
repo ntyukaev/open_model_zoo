@@ -1,4 +1,4 @@
-# formula-recognition-medium-scan-0001 (composite)
+# formula-recognition-medium-scan-0001 (composite) {#omz_models_intel_formula_recognition_medium_scan_0001_description_formula_recognition_medium_scan_0001}
 
 ## Use Case and High-Level Description
 

@@ -1,4 +1,4 @@
-# Speech Recognition Demo
+# Speech Recognition Demo {#omz_demos_python_demos_speech_recognition_demo_README}
 
 This demo demonstrates Automatic Speech Recognition (ASR) with a pretrained Mozilla\* DeepSpeech 0.6.1 model.
 

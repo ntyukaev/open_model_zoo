@@ -1,4 +1,4 @@
-# Sample
+# Sample {#omz_tools_accuracy_checker_sample_README}
 
 In this sample we will go through typical steps required to evaluate DL topologies. 
 

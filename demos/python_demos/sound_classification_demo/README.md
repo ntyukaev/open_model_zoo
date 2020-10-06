@@ -1,4 +1,4 @@
-# Sound Classification Python\* Demo
+# Sound Classification Python\* Demo {#omz_demos_python_demos_sound_classification_demo_README}
 
 Demo application for sound classification algorithm.
 

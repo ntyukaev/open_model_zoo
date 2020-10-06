@@ -1,4 +1,4 @@
-# person-vehicle-bike-detection-2001
+# person-vehicle-bike-detection-2001 {#omz_models_intel_person_vehicle_bike_detection_2001_description_person_vehicle_bike_detection_2001}
 
 ## Use Case and High-Level Description
 

@@ -1,4 +1,4 @@
-# Overview of OpenVINO&trade; Toolkit Public Models
+# Overview of OpenVINO&trade; Toolkit Public Models {#omz_models_public_index}
 
 OpenVINO&trade; toolkit provides a set of public models
 that you can use for learning and demo purposes or for developing deep learning

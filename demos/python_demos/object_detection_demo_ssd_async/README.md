@@ -1,4 +1,4 @@
-# Object Detection SSD Python* Demo, Async API performance showcase
+# Object Detection SSD Python* Demo, Async API performance showcase {#omz_demos_python_demos_object_detection_demo_ssd_async_README}
 
 This demo showcases Object Detection with SSD and Async API.
 

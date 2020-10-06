@@ -1,4 +1,4 @@
-# machine-translation-nar-ru-en-0001
+# machine-translation-nar-ru-en-0001 {#omz_models_intel_machine_translation_nar_ru_en_0001_description_machine_translation_nar_ru_en_0001}
 
 ## Use Case and High-Level Description
 

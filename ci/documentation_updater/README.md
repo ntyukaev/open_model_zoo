@@ -1,4 +1,4 @@
-# Documentation updater
+# Documentation updater {#omz_ci_documentation_updater_README}
 
 This script updates description in `model.yml` file according to description in markdown documentation from section *Use Case and High-Level Description*.
 

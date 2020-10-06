@@ -1,4 +1,4 @@
-# person-vehicle-bike-detection-crossroad-yolov3-1020
+# person-vehicle-bike-detection-crossroad-yolov3-1020 {#omz_models_intel_person_vehicle_bike_detection_crossroad_yolov3_1020_description_person_vehicle_bike_detection_crossroad_yolov3_1020}
 
 ## Use Case and High-Level Description
 

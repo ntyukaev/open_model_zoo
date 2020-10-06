@@ -1,4 +1,4 @@
-# Colorization Demo
+# Colorization Demo {#omz_demos_python_demos_colorization_demo_README}
 
 This demo demonstrates an example of using neural networks to colorize a video.
 You can use the following models with the demo:

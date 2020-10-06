@@ -1,4 +1,4 @@
-# vehicle-detection-0201
+# vehicle-detection-0201 {#omz_models_intel_vehicle_detection_0201_description_vehicle_detection_0201}
 
 ## Use Case and High-Level Description
 

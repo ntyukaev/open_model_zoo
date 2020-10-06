@@ -1,4 +1,4 @@
-# How to use predefined configuration files
+# How to use predefined configuration files {#omz_tools_accuracy_checker_configs_README}
 
 ## Structure
 

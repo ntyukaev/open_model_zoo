@@ -1,4 +1,4 @@
-# Model Downloader and other automation tools
+# Model Downloader and other automation tools {#omz_tools_downloader_README}
 
 This directory contains scripts that automate certain model-related tasks
 based on configuration files in the models' directories.

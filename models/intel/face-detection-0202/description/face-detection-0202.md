@@ -1,4 +1,4 @@
-# face-detection-0202
+# face-detection-0202 {#omz_models_intel_face_detection_0202_description_face_detection_0202}
 
 ## Use Case and High-Level Description
 

@@ -1,4 +1,4 @@
-# brain-tumor-segmentation-0001
+# brain-tumor-segmentation-0001 {#omz_models_public_brain_tumor_segmentation_0001_brain_tumor_segmentation_0001}
 
 ## Use Case and High-Level Description
 

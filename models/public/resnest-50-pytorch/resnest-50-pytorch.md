@@ -1,4 +1,4 @@
-# resnest-50-pytorch
+# resnest-50-pytorch {#omz_models_public_resnest_50_pytorch_resnest_50_pytorch}
 
 ## Use Case and High-Level Description
 

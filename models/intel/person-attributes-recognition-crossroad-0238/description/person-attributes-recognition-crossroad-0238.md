@@ -1,4 +1,4 @@
-# person-attributes-recognition-crossroad-0238
+# person-attributes-recognition-crossroad-0238 {#omz_models_intel_person_attributes_recognition_crossroad_0238_description_person_attributes_recognition_crossroad_0238}
 
 ## Use Case and High-Level Description
 

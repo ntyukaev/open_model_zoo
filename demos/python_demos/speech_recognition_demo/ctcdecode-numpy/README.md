@@ -1,4 +1,4 @@
-# ctcdecode-numpy Python package
+# ctcdecode-numpy Python package {#omz_demos_python_demos_speech_recognition_demo_ctcdecode_numpy_README}
 
 ctcdecode-numpy is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for NumPy with optional n-gram language modeling.
 C++ code is based on [Parlance](https://github.com/parlance/ctcdecode), which in turn borrowed liberally from Paddle Paddles' [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech).

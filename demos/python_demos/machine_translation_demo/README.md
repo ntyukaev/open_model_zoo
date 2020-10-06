@@ -1,4 +1,4 @@
-# Machine Translation Python\* Demo
+# Machine Translation Python\* Demo {#omz_demos_python_demos_machine_translation_demo_README}
 
 This README describes the Machine Translation demo application that uses a non-autoregressive Transformer model for inference.
 

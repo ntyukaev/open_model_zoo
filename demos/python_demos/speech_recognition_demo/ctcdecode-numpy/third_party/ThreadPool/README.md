@@ -1,4 +1,4 @@
-ThreadPool
+ThreadPool {#omz_demos_python_demos_speech_recognition_demo_ctcdecode_numpy_third_party_ThreadPool_README}
 ==========
 
 A simple C++11 Thread Pool implementation.
