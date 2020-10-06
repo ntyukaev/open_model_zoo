@@ -5,7 +5,6 @@
                 <tab type="usergroup" title="Object Detection Models" url="">
                     <tab type="user" title="faster-rcnn-resnet101-coco-sparse-60-0001" url="@ref omz_models_intel_faster_rcnn_resnet101_coco_sparse_60_0001_description_faster_rcnn_resnet101_coco_sparse_60_0001"/>
                     <tab type="user" title="face-detection-adas-0001" url="@ref omz_models_intel_face_detection_adas_0001_description_face_detection_adas_0001"/>
-                    <tab type="user" title="face-detection-adas-binary-0001" url="@ref omz_models_intel_face_detection_adas_binary_0001_description_face_detection_adas_binary_0001"/>
                     <tab type="user" title="face-detection-retail-0004" url="@ref omz_models_intel_face_detection_retail_0004_description_face_detection_retail_0004"/>
                     <tab type="user" title="face-detection-retail-0005" url="@ref omz_models_intel_face_detection_retail_0005_description_face_detection_retail_0005"/>
                     <tab type="user" title="face-detection-0200" url="@ref omz_models_intel_face_detection_0200_description_face_detection_0200"/>
@@ -25,10 +24,8 @@
                     <tab type="user" title="person-detection-0106" url="@ref omz_models_intel_person_detection_0106_description_person_detection_0106"/>
                     <tab type="user" title="person-detection-asl-0001" url="@ref omz_models_intel_person_detection_asl_0001_description_person_detection_asl_0001"/>
                     <tab type="user" title="pedestrian-detection-adas-0002" url="@ref omz_models_intel_pedestrian_detection_adas_0002_description_pedestrian_detection_adas_0002"/>
-                    <tab type="user" title="pedestrian-detection-adas-binary-0001" url="@ref omz_models_intel_pedestrian_detection_adas_binary_0001_description_pedestrian_detection_adas_binary_0001"/>
                     <tab type="user" title="pedestrian-and-vehicle-detector-adas-0001" url="@ref omz_models_intel_pedestrian_and_vehicle_detector_adas_0001_description_pedestrian_and_vehicle_detector_adas_0001"/>
                     <tab type="user" title="vehicle-detection-adas-0002" url="@ref omz_models_intel_vehicle_detection_adas_0002_description_vehicle_detection_adas_0002"/>
-                    <tab type="user" title="vehicle-detection-adas-binary-0001" url="@ref omz_models_intel_vehicle_detection_adas_binary_0001_description_vehicle_detection_adas_binary_0001"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-0078" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_0078_description_person_vehicle_bike_detection_crossroad_0078"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-1016" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_1016_description_person_vehicle_bike_detection_crossroad_1016"/>
                     <tab type="user" title="product-detection-0001" url="@ref omz_models_intel_product_detection_0001_description_product_detection_0001"/>
