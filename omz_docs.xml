@@ -8,20 +8,20 @@
                     <tab type="user" title="face-detection-adas-binary-0001" url="@ref omz_models_intel_face_detection_adas_binary_0001_description_face_detection_adas_binary_0001"/>
                     <tab type="user" title="face-detection-retail-0004" url="@ref omz_models_intel_face_detection_retail_0004_description_face_detection_retail_0004"/>
                     <tab type="user" title="face-detection-retail-0005" url="@ref omz_models_intel_face_detection_retail_0005_description_face_detection_retail_0005"/>
-                    <tab type="user" title="face-detection-0100" url="@ref omz_models_intel_face_detection_0100_description_face_detection_0100"/>
-                    <tab type="user" title="face-detection-0102" url="@ref omz_models_intel_face_detection_0102_description_face_detection_0102"/>
-                    <tab type="user" title="face-detection-0104" url="@ref omz_models_intel_face_detection_0104_description_face_detection_0104"/>
-                    <tab type="user" title="face-detection-0105" url="@ref omz_models_intel_face_detection_0105_description_face_detection_0105"/>
-                    <tab type="user" title="face-detection-0106" url="@ref omz_models_intel_face_detection_0106_description_face_detection_0106"/>
+                    <tab type="user" title="face-detection-0200" url="@ref omz_models_intel_face_detection_0200_description_face_detection_0200"/>
+                    <tab type="user" title="face-detection-0202" url="@ref omz_models_intel_face_detection_0202_description_face_detection_0202"/>
+                    <tab type="user" title="face-detection-0204" url="@ref omz_models_intel_face_detection_0204_description_face_detection_0204"/>
+                    <tab type="user" title="face-detection-0205" url="@ref omz_models_intel_face_detection_0205_description_face_detection_0205"/>
+                    <tab type="user" title="face-detection-0206" url="@ref omz_models_intel_face_detection_0106_description_face_detection_0206"/>
                     <tab type="user" title="person-detection-retail-0002" url="@ref omz_models_intel_person_detection_retail_0002_description_person_detection_retail_0002"/>
                     <tab type="user" title="person-detection-retail-0013" url="@ref omz_models_intel_person_detection_retail_0013_description_person_detection_retail_0013"/>
                     <tab type="user" title="person-detection-action-recognition-0005" url="@ref omz_models_intel_person_detection_action_recognition_0005_description_person_detection_action_recognition_0005"/>
                     <tab type="user" title="person-detection-action-recognition-0006" url="@ref omz_models_intel_person_detection_action_recognition_0006_description_person_detection_action_recognition_0006"/>
                     <tab type="user" title="person-detection-action-recognition-teacher-0002" url="@ref omz_models_intel_person_detection_action_recognition_teacher_0002_description_person_detection_action_recognition_teacher_0002"/>
                     <tab type="user" title="person-detection-raisinghand-recognition-0001" url="@ref omz_models_intel_person_detection_raisinghand_recognition_0001_description_person_detection_raisinghand_recognition_0001"/>
-                    <tab type="user" title="person-detection-0100" url="@ref omz_models_intel_person_detection_0100_description_person_detection_0100"/>
-                    <tab type="user" title="person-detection-0101" url="@ref omz_models_intel_person_detection_0101_description_person_detection_0101"/>
-                    <tab type="user" title="person-detection-0102" url="@ref omz_models_intel_person_detection_0102_description_person_detection_0102"/>
+                    <tab type="user" title="person-detection-0200" url="@ref omz_models_intel_person_detection_0200_description_person_detection_0200"/>
+                    <tab type="user" title="person-detection-0201" url="@ref omz_models_intel_person_detection_0201_description_person_detection_0201"/>
+                    <tab type="user" title="person-detection-0202" url="@ref omz_models_intel_person_detection_0202_description_person_detection_0202"/>
                     <tab type="user" title="person-detection-0106" url="@ref omz_models_intel_person_detection_0106_description_person_detection_0106"/>
                     <tab type="user" title="person-detection-asl-0001" url="@ref omz_models_intel_person_detection_asl_0001_description_person_detection_asl_0001"/>
                     <tab type="user" title="pedestrian-detection-adas-0002" url="@ref omz_models_intel_pedestrian_detection_adas_0002_description_pedestrian_detection_adas_0002"/>
@@ -54,10 +54,10 @@
                     <tab type="user" title="gaze-estimation-adas-0002" url="@ref omz_models_intel_gaze_estimation_adas_0002_description_gaze_estimation_adas_0002"/>
                 </tab>
                 <tab type="usergroup" title="Reidentification Models" url="">
-                    <tab type="user" title="person-reidentification-retail-0248" url="@ref omz_models_intel_person_reidentification_retail_0248_description_person_reidentification_retail_0248"/>
-                    <tab type="user" title="person-reidentification-retail-0265" url="@ref omz_models_intel_person_reidentification_retail_0265_description_person_reidentification_retail_0265"/>
-                    <tab type="user" title="person-reidentification-retail-0267" url="@ref omz_models_intel_person_reidentification_retail_0267_description_person_reidentification_retail_0267"/>
-                    <tab type="user" title="person-reidentification-retail-0270" url="@ref omz_models_intel_person_reidentification_retail_0270_description_person_reidentification_retail_0270"/>
+                    <tab type="user" title="person-reidentification-retail-0277" url="@ref omz_models_intel_person_reidentification_retail_0277_description_person_reidentification_retail_0277"/>
+                    <tab type="user" title="person-reidentification-retail-0286" url="@ref omz_models_intel_person_reidentification_retail_0286_description_person_reidentification_retail_0286"/>
+                    <tab type="user" title="person-reidentification-retail-0287" url="@ref omz_models_intel_person_reidentification_retail_0287_description_person_reidentification_retail_0287"/>
+                    <tab type="user" title="person-reidentification-retail-0288" url="@ref omz_models_intel_person_reidentification_retail_0288_description_person_reidentification_retail_0288"/>
                 </tab>
                 <tab type="usergroup" title="Semantic Segmentation Models" url="">
                     <tab type="user" title="road-segmentation-adas-0001" url="@ref omz_models_intel_road_segmentation_adas_0001_description_road_segmentation_adas_0001"/>
