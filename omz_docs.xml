@@ -267,11 +267,15 @@
                     <tab type="user" title="colorization-v2" url="@ref omz_models_public_colorization_v2_colorization_v2"/>
                     <tab type="user" title="colorization-v2-norebal" url="@ref omz_models_public_colorization_v2_norebal_colorization_v2_norebal"/>
                 </tab>
+                <tab type="Sound Classification" title="Sound Classification" url="">
+                    <tab type="user" title="aclnet" url="@ref omz_models_public_aclnet_aclnet"/>                    
+                </tab>
             </tab>
         </tab>
         <tab id="application_demos" type="usergroup" title="Application Demos" url="@ref omz_demos_README">
             <tab type="user" title="Crossroad Camera C++ Demo" url="@ref omz_demos_crossroad_camera_demo_README"/>
             <tab type="user" title="Colorization Python Demo" url="@ref omz_demos_python_demos_colorization_demo_README"/>
+            <tab type="user" title="Classification C++ Demo" url="@ref omz_demos_classification_demo_README"/>
             <tab type="user" title="Image Inpainting Python Demo" url="@ref omz_demos_python_demos_image_inpainting_demo_README"/>
             <tab type="user" title="Monodepth Python* Demo" url="@ref omz_demos_python_demos_monodepth_demo_README"/>
             <tab type="user" title="Interactive Face Detection C++ Demo" url="@ref omz_demos_interactive_face_detection_demo_README"/>
