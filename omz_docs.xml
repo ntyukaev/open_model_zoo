@@ -26,6 +26,9 @@
                     <tab type="user" title="pedestrian-detection-adas-0002" url="@ref omz_models_intel_pedestrian_detection_adas_0002_description_pedestrian_detection_adas_0002"/>
                     <tab type="user" title="pedestrian-and-vehicle-detector-adas-0001" url="@ref omz_models_intel_pedestrian_and_vehicle_detector_adas_0001_description_pedestrian_and_vehicle_detector_adas_0001"/>
                     <tab type="user" title="vehicle-detection-adas-0002" url="@ref omz_models_intel_vehicle_detection_adas_0002_description_vehicle_detection_adas_0002"/>
+                    <tab type="user" title="person-vehicle-bike-detection-2000" url="@ref omz_models_intel_person_vehicle_bike_detection_2000_description_person_vehicle_bike_detection_2000"/>
+                    <tab type="user" title="person-vehicle-bike-detection-2001" url="@ref omz_models_intel_person_vehicle_bike_detection_2001_description_person_vehicle_bike_detection_2001"/>
+                    <tab type="user" title="person-vehicle-bike-detection-2002" url="@ref omz_models_intel_person_vehicle_bike_detection_2002_description_person_vehicle_bike_detection_2002"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-0078" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_0078_description_person_vehicle_bike_detection_crossroad_0078"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-1016" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_1016_description_person_vehicle_bike_detection_crossroad_1016"/>
                     <tab type="user" title="product-detection-0001" url="@ref omz_models_intel_product_detection_0001_description_product_detection_0001"/>
@@ -48,6 +51,8 @@
                     <tab type="user" title="landmarks-regression-retail-0009" url="@ref omz_models_intel_landmarks_regression_retail_0009_description_landmarks_regression_retail_0009"/>
                     <tab type="user" title="facial-landmarks-35-adas-0002" url="@ref omz_models_intel_facial_landmarks_35_adas_0002_description_facial_landmarks_35_adas_0002"/>
                     <tab type="user" title="person-attributes-recognition-crossroad-0230" url="@ref omz_models_intel_person_attributes_recognition_crossroad_0230_description_person_attributes_recognition_crossroad_0230"/>
+                    <tab type="user" title="person-attributes-recognition-crossroad-0234" url="@ref omz_models_intel_person_attributes_recognition_crossroad_0234_description_person_attributes_recognition_crossroad_0234"/>
+                    <tab type="user" title="person-attributes-recognition-crossroad-0238" url="@ref omz_models_intel_person_attributes_recognition_crossroad_0238_description_person_attributes_recognition_crossroad_0238"/>
                     <tab type="user" title="gaze-estimation-adas-0002" url="@ref omz_models_intel_gaze_estimation_adas_0002_description_gaze_estimation_adas_0002"/>
                 </tab>
                 <tab type="usergroup" title="Reidentification Models" url="">
@@ -81,11 +86,13 @@
                 <tab type="usergroup" title="Text Detection" url="">
                     <tab type="user" title="text-detection-0003" url="@ref omz_models_intel_text_detection_0003_description_text_detection_0003"/>
                     <tab type="user" title="text-detection-0004" url="@ref omz_models_intel_text_detection_0004_description_text_detection_0004"/>
+                    <tab type="user" title="horizontal-text-detection-0001" url="@ref omz_models_intel_horizontal_text_detection_0001_description_horizontal_text_detection_0001"/>
                 </tab>
                 <tab type="usergroup" title="Text Recognition" url="">
                     <tab type="user" title="text-recognition-0012" url="@ref omz_models_intel_text_recognition_0012_description_text_recognition_0012"/>
                     <tab type="user" title="handwritten-score-recognition-0003" url="@ref omz_models_intel_handwritten_score_recognition_0003_description_handwritten_score_recognition_0003"/>
                     <tab type="user" title="handwritten-japanese-recognition-0001" url="@ref omz_models_intel_handwritten_japanese_recognition_0001_description_handwritten_japanese_recognition_0001"/>
+                    <tab type="user" title="formula-recognition-medium-scan-0001" url="@ref omz_models_intel_formula_recognition_medium_scan_0001_description_formula_recognition_medium_scan_0001"/>
                 </tab>
                 <tab type="usergroup" title="Text Spotting" url="">
                     <tab type="user" title="text-spotting-0002" url="@ref omz_models_intel_text_spotting_0002_description_text_spotting_0002"/>
@@ -107,6 +114,12 @@
                     <tab type="user" title="bert-large-uncased-whole-word-masking-squad-fp32-0001" url="@ref omz_models_intel_bert_large_uncased_whole_word_masking_squad_fp32_0001_description_bert_large_uncased_whole_word_masking_squad_fp32_0001"/>
                     <tab type="user" title="bert-large-uncased-whole-word-masking-squad-int8-0001" url="@ref omz_models_intel_bert_large_uncased_whole_word_masking_squad_int8_0001_description_bert_large_uncased_whole_word_masking_squad_int8_0001"/>
                     <tab type="user" title="bert-small-uncased-whole-word-masking-squad-0001" url="@ref omz_models_intel_bert_small_uncased_whole_word_masking_squad_0001_description_bert_small_uncased_whole_word_masking_squad_0001"/>
+                    <tab type="user" title="bert-small-uncased-whole-word-masking-squad-0002" url="@ref omz_models_intel_bert_small_uncased_whole_word_masking_squad_0002_description_bert_small_uncased_whole_word_masking_squad_0002"/>
+                    <tab type="user" title="bert-large-uncased-whole-word-masking-squad-emb-0001" url="@ref omz_models_intel_bert_large_uncased_whole_word_masking_squad_emb_0001_description_bert_large_uncased_whole_word_masking_squad_emb_0001"/>
+                </tab>
+                <tab type="usergroup" title="Machine Translation" url="">
+                    <tab type="user" title="machine-translation-nar-en-ru-0001" url="@ref omz_models_intel_machine_translation_nar_en_ru_0001_description_machine_translation_nar_en_ru_0001"/>
+                    <tab type="user" title="machine-translation-nar-ru-en-0001" url="@ref omz_models_intel_machine_translation_nar_ru_en_0001_description_machine_translation_nar_ru_en_0001"/>
                 </tab>
             </tab>
             <tab type="usergroup" title="Public Pre-trained Models Available with OpenVINO™ from Open Model Zoo" url="@ref omz_models_public_index">
