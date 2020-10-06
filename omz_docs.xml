@@ -26,11 +26,15 @@
                     <tab type="user" title="pedestrian-detection-adas-0002" url="@ref omz_models_intel_pedestrian_detection_adas_0002_description_pedestrian_detection_adas_0002"/>
                     <tab type="user" title="pedestrian-and-vehicle-detector-adas-0001" url="@ref omz_models_intel_pedestrian_and_vehicle_detector_adas_0001_description_pedestrian_and_vehicle_detector_adas_0001"/>
                     <tab type="user" title="vehicle-detection-adas-0002" url="@ref omz_models_intel_vehicle_detection_adas_0002_description_vehicle_detection_adas_0002"/>
+                    <tab type="user" title="vehicle-detection-0200" url="@ref omz_models_intel_vehicle_detection_0200_description_vehicle_detection_0200"/>
+                    <tab type="user" title="vehicle-detection-0201" url="@ref omz_models_intel_vehicle_detection_0201_description_vehicle_detection_0201"/>
+                    <tab type="user" title="vehicle-detection-0202" url="@ref omz_models_intel_vehicle_detection_0202_description_vehicle_detection_0202"/>
                     <tab type="user" title="person-vehicle-bike-detection-2000" url="@ref omz_models_intel_person_vehicle_bike_detection_2000_description_person_vehicle_bike_detection_2000"/>
                     <tab type="user" title="person-vehicle-bike-detection-2001" url="@ref omz_models_intel_person_vehicle_bike_detection_2001_description_person_vehicle_bike_detection_2001"/>
                     <tab type="user" title="person-vehicle-bike-detection-2002" url="@ref omz_models_intel_person_vehicle_bike_detection_2002_description_person_vehicle_bike_detection_2002"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-0078" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_0078_description_person_vehicle_bike_detection_crossroad_0078"/>
                     <tab type="user" title="person-vehicle-bike-detection-crossroad-1016" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_1016_description_person_vehicle_bike_detection_crossroad_1016"/>
+                    <tab type="user" title="person-vehicle-bike-detection-crossroad-yolov3-1020" url="@ref omz_models_intel_person_vehicle_bike_detection_crossroad_yolov3_1020_description_person_vehicle_bike_detection_crossroad_yolov3_1020"/>
                     <tab type="user" title="product-detection-0001" url="@ref omz_models_intel_product_detection_0001_description_product_detection_0001"/>
                     <tab type="user" title="vehicle-license-plate-detection-barrier-0106" url="@ref omz_models_intel_vehicle_license_plate_detection_barrier_0106_description_vehicle_license_plate_detection_barrier_0106"/>
                     <tab type="user" title="yolo-v2-ava-0001" url="@ref omz_models_intel_yolo_v2_ava_0001_description_yolo_v2_ava_0001"/>
