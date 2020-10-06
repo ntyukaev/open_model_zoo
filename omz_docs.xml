@@ -310,6 +310,7 @@
             <tab type="user" title="3D Segmentation Demo" url="@ref omz_demos_python_demos_3d_segmentation_demo_README"/>
             <tab type="user" title="Image Retrieval Python* Demo" url="@ref omz_demos_python_demos_image_retrieval_demo_README"/>
             <tab type="user" title="Multi-Camera Multi-Target Tracking Python* Demo" url="@ref omz_demos_python_demos_multi_camera_multi_target_tracking_README"/>
+            <tab type="user" title="BERT Question Answering Python* Demo" url="@ref omz_demos_python_demos_bert_question_answering_demo_README"/>
             <tab type="user" title="BERT Question Answering Embedding Python* Demo" url="@ref omz_demos_python_demos_bert_question_answering_embedding_demo_README"/>
             <tab type="user" title="Machine Translation Python* Demo" url="@ref omz_demos_python_demos_machine_translation_demo_README"/>
             <tab type="user" title="Sound Classification Python* Demo" url="@ref omz_demos_python_demos_sound_classification_demo_README"/>
