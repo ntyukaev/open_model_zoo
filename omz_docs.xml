@@ -178,12 +178,9 @@
                     <tab type="user" title="open-closed-eye-0001" url="@ref omz_models_public_open_closed_eye_0001_description_open_closed_eye_0001"/>
                     <tab type="user" title="ResNet 18" url="@ref omz_models_public_resnet_18_pytorch_resnet_18_pytorch"/>
                     <tab type="user" title="ResNet 34" url="@ref omz_models_public_resnet_34_pytorch_resnet_34_pytorch"/>
-                    <tab type="user" title="ResNet 50" url="@ref omz_models_public_resnet_50_resnet_50"/>
                     <tab type="user" title="resnet-50-pytorch" url="@ref omz_models_public_resnet_50_pytorch_resnet_50_pytorch"/>
                     <tab type="user" title="resnet-50-caffe2" url="@ref omz_models_public_resnet_50_caffe2_resnet_50_caffe2"/>
                     <tab type="user" title="resnet-50-tf" url="@ref omz_models_public_resnet_50_tf_resnet_50_tf"/>
-                    <tab type="user" title="ResNet 101" url="@ref omz_models_public_resnet_101_resnet_101"/>
-                    <tab type="user" title="ResNet 152" url="@ref omz_models_public_resnet_152_resnet_152"/>
                     <tab type="user" title="SE-Inception" url="@ref omz_models_public_se_inception_se_inception"/>
                     <tab type="user" title="SE-ResNet 50" url="@ref omz_models_public_se_resnet_50_se_resnet_50"/>
                     <tab type="user" title="SE-ResNet 101" url="@ref omz_models_public_se_resnet_101_se_resnet_101"/>
@@ -310,6 +307,7 @@
             <tab type="user" title="3D Segmentation Demo" url="@ref omz_demos_python_demos_3d_segmentation_demo_README"/>
             <tab type="user" title="Image Retrieval Python* Demo" url="@ref omz_demos_python_demos_image_retrieval_demo_README"/>
             <tab type="user" title="Multi-Camera Multi-Target Tracking Python* Demo" url="@ref omz_demos_python_demos_multi_camera_multi_target_tracking_README"/>
+            <tab type="user" title="BERT Question Answering Python* Demo" url="@ref omz_demos_python_demos_bert_question_answering_demo_README"/>
             <tab type="user" title="BERT Question Answering Embedding Python* Demo" url="@ref omz_demos_python_demos_bert_question_answering_embedding_demo_README"/>
             <tab type="user" title="Machine Translation Python* Demo" url="@ref omz_demos_python_demos_machine_translation_demo_README"/>
             <tab type="user" title="Sound Classification Python* Demo" url="@ref omz_demos_python_demos_sound_classification_demo_README"/>
