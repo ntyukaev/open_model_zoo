@@ -1,4 +1,4 @@
-# mozilla-deepspeech-0.6.1 {#omz_models_public_mozilla_deepspeech_0.6.1_mozilla_deepspeech_0.6.1}
+# mozilla-deepspeech-0.6.1 {#omz_models_public_mozilla_deepspeech_0_6_1_mozilla_deepspeech_0_6_1}
 
 ## Use Case and High-Level Description
 
