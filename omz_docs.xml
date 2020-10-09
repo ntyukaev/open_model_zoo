@@ -263,11 +263,11 @@
                 <tab type="usergroup" title="Action Recognition" url="">
                     <tab type="user" title="RGB-I3D, pretrained on ImageNet\*" url="@ref omz_models_public_i3d_rgb_tf_i3d_rgb_tf"/>
                 </tab>
-                <tab type="Colorization" title="Colorization" url="">
+                <tab type="usergroup" title="Colorization" url="">
                     <tab type="user" title="colorization-v2" url="@ref omz_models_public_colorization_v2_colorization_v2"/>
                     <tab type="user" title="colorization-v2-norebal" url="@ref omz_models_public_colorization_v2_norebal_colorization_v2_norebal"/>
                 </tab>
-                <tab type="Sound Classification" title="Sound Classification" url="">
+                <tab type="usergroup" title="Sound Classification" url="">
                     <tab type="user" title="aclnet" url="@ref omz_models_public_aclnet_aclnet"/>                    
                 </tab>
             </tab>
