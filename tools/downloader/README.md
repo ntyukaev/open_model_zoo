@@ -20,8 +20,8 @@ Please use these tools instead of attempting to parse the configuration files
 directly. Their format is undocumented and may change in incompatible ways in
 future releases.
 
-Model Downloader is also available inside the web-based graphical environment of the 
-[OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
+> **TIP**: Model Downloader is also available inside the web-based graphical environment of the 
+> [OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
 
 ## Prerequisites
 

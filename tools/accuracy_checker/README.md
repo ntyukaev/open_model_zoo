@@ -2,8 +2,8 @@
 
 ## Installation
 
-> **NOTE**: Accuracy Checker is also available inside the web-based graphical environment of the 
-[OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
+> **TIP**: Accuracy Checker is also available inside the web-based graphical environment of the 
+> [OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
 
 ### Prerequisites
 
