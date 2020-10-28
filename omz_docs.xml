@@ -1,5 +1,26 @@
 <doxygenlayout version="1.0">
     <navindex>
+        <tab id="accuracy_checker" type="usergroup" title="Accuracy Checker Tool" url="@ref omz_tools_accuracy_checker_README">
+            <tab type="user" title="Accuracy Checker Sample" url="@ref omz_tools_accuracy_checker_sample_README"/>
+            <tab type="user" title="How to use predefined configuration files" url="@ref omz_tools_accuracy_checker_configs_README"/>
+            <tab type="user" title="Configure Caffe* Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_caffe_launcher_readme"/>
+            <tab type="user" title="Configure OpenVINO Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_dlsdk_launcher_readme"/>
+            <tab type="user" title="Configure OpenCV* Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_opencv_launcher_readme"/>
+            <tab type="user" title="Configure MxNet* Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_mxnet_launcher_readme"/>
+            <tab type="user" title="Configure TensorFlow* Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_tf_launcher_readme"/>
+            <tab type="user" title="Configure TensorFlow* Lite Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_tf_lite_launcher_readme"/>
+            <tab type="user" title="Configure ONNX* Runtime Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_onnx_runtime_launcher_readme"/>
+            <tab type="user" title="Configure *PyTorch Launcher" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_pytorch_launcher_readme"/>
+            <tab type="user" title="Adapters" url="@ref omz_tools_accuracy_checker_accuracy_checker_adapters_README"/>
+            <tab type="user" title="Annotation Converters" url="@ref omz_tools_accuracy_checker_accuracy_checker_annotation_converters_README"/>
+            <tab type="user" title="Preprocessors" url="@ref omz_tools_accuracy_checker_accuracy_checker_preprocessor_README"/>
+            <tab type="user" title="Postprocessors" url="@ref omz_tools_accuracy_checker_accuracy_checker_postprocessor_README"/>
+            <tab type="user" title="Metrics" url="@ref omz_tools_accuracy_checker_accuracy_checker_metrics_README"/>
+            <tab type="user" title="Custom Evaluators for Accuracy Checker" url="@ref omz_tools_accuracy_checker_accuracy_checker_evaluators_custom_evaluators_README"/>
+            <tab type="user" title="Readers" url="@ref omz_tools_accuracy_checker_accuracy_checker_data_readers_README"/>
+            <tab type="user" title="Caffe* Installation Tips" url="@ref omz_tools_accuracy_checker_accuracy_checker_launcher_caffe_installation_readme"/>
+        </tab>
+        <tab id="model_downloader" type="user" title="Model Downloader" url="@ref omz_tools_downloader_README"/>
         <tab id="trained_models" type="usergroup" title="Trained Models" url="@ref omz_models_intel_index">
             <tab type="usergroup" title="Intel Pre-Trained Models" url="@ref omz_models_intel_index">
                 <tab type="usergroup" title="Object Detection Models" url="">
