@@ -2,8 +2,11 @@
 
 ## Installation
 
-> **TIP**: Accuracy Checker is also available inside the web-based graphical environment of the 
-> [OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
+> **TIP**: Accuracy Checker is also available inside the web-based graphical environment of the [OpenVINO™ Deep Learning Workbench](@ref workbench_docs_Workbench_DG_Introduction). 
+> DL Workbench enables you to visualize, fine-tune, and compare performance of deep learning models on various Intel® architecture configurations using sophisticated
+> OpenVINO™ toolkit components: [Model Downloader](../../tools/downloader/README.md), [Intel® Open Model Zoo](../../models/intel/index.md), 
+> [Model Optimizer](@ref openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide), [Post-Training Optimization tool](@ref pot_README),
+> Accuracy Checker, and [Benchmark Tool](@ref openvino_inference_engine_samples_benchmark_app_README).
 
 ### Prerequisites
 

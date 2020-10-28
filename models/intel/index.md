@@ -8,8 +8,11 @@ The models can be downloaded via Model Downloader
 (`<OPENVINO_INSTALL_DIR>/deployment_tools/open_model_zoo/tools/downloader`).
 They can also be downloaded manually from [01.org](https://download.01.org/opencv).
 
-> **TIP**: You can download and profile Intel pretrained models in the web-based 
-> graphical environment of the [OpenVINO™ Deep Learning Workbench](@ref openvino_docs_get_started_get_started_dl_workbench).
+> **TIP**: You can download and profile Intel® pretrained models in the web-based graphical environment of the [OpenVINO™ Deep Learning Workbench](@ref workbench_docs_Workbench_DG_Introduction). 
+> DL Workbench enables you to visualize, fine-tune, and compare performance of deep learning models on various Intel® architecture configurations using sophisticated
+> OpenVINO™ toolkit components: [Model Downloader](../../tools/downloader/README.md), Intel® Open Model Zoo, 
+> [Model Optimizer](@ref openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide), [Post-Training Optimization tool](@ref pot_README),
+> [Accuracy Checker](../../tools/accuracy_checker/README.md), and [Benchmark Tool](@ref openvino_inference_engine_samples_benchmark_app_README).
 
 ## Object Detection Models
 
