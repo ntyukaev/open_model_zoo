@@ -20,11 +20,12 @@ Please use these tools instead of attempting to parse the configuration files
 directly. Their format is undocumented and may change in incompatible ways in
 future releases.
 
-> **TIP**: Model Downloader is also available inside the web-based graphical environment of the [OpenVINO™ Deep Learning Workbench](@ref workbench_docs_Workbench_DG_Introduction). 
-> DL Workbench enables you to visualize, fine-tune, and compare performance of deep learning models on various Intel® architecture configurations using sophisticated
-> OpenVINO™ toolkit components: Model Downloader, [Intel® Open Model Zoo](../../models/intel/index.md), 
-> [Model Optimizer](@ref openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide), [Post-Training Optimization tool](@ref pot_README),
-> [Accuracy Checker](../../tools/accuracy_checker/README.md), and [Benchmark Tool](@ref openvino_inference_engine_samples_benchmark_app_README).
+> **TIP**: You also can work with the Model Downloader inside the OpenVINO™ [Deep Learning Workbench](@ref workbench_docs_Workbench_DG_Introduction) (DL Workbench).
+> [DL Workbench](@ref workbench_docs_Workbench_DG_Introduction) is a platform built upon OpenVINO™ and provides a web-based graphical environment that enables you to optimize, fine-tune, analyze, visualize, and compare 
+> performance of deep learning models on various Intel® architecture
+> configurations. In the DL Workbench, you can use most of OpenVINO™ toolkit components.
+> <br>
+> Proceed to an [easy installation from Docker](@ref workbench_docs_Workbench_DG_Install_from_Docker_Hub) to get started.
 
 ## Prerequisites
 
