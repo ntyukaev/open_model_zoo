@@ -1,4 +1,4 @@
-# Multi Camera Multi Target Python* Demo {#omz_demos_python_demos_multi_camera_multi_target_tracking_README}
+# Multi Camera Multi Target Python\* Demo {#omz_demos_python_demos_multi_camera_multi_target_tracking_README}
 
 This demo demonstrates how to run Multi Camera Multi Target (e.g. person or vehicle) demo using OpenVINO<sup>TM</sup>.
 
@@ -173,7 +173,7 @@ The demo provides tools for measure quality of the multi camera multi target tra
 
 For MOT metrics evaluation we use [py-motmetrics](https://github.com/cheind/py-motmetrics) module.
 It is necessary to have ground truth annotation file for the evaluation. Supported format
-of the ground truth annotation can be obtained via the annotation tool [CVAT](https://github.com/opencv/cvat).
+of the ground truth annotation can be obtained via the annotation tool [CVAT](https://github.com/openvinotoolkit/cvat).
 The annotation must includes the following labels and attributes:
 ```json
 [
