@@ -1,4 +1,4 @@
-# colorization-siggraph {#omz_models_public_colorization_v2_norebal_colorization_v2_norebal}
+# colorization-siggraph {#omz_models_public_colorization_siggraph_colorization_siggraph}
 
 ## Use Case and High-Level Description
 
