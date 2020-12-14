@@ -1,4 +1,4 @@
-# text-spotting-0003 (composite) {#omz_models_intel_text_spotting_0002_description_text_spotting_0002}
+# text-spotting-0003 (composite) {#omz_models_intel_text_spotting_0003_description_text_spotting_0003}
 
 ## Use Case and High-Level Description
 
