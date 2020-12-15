@@ -273,6 +273,7 @@
                     <tab type="user" title="YOLO v2 Tiny" url="@ref omz_models_public_yolo_v2_tiny_tf_yolo_v2_tiny_tf"/>
                     <tab type="user" title="YOLO v2" url="@ref omz_models_public_yolo_v2_tf_yolo_v2_tf"/>
                     <tab type="user" title="YOLO v3" url="@ref omz_models_public_yolo_v3_tf_yolo_v3_tf"/>
+                    <tab type="user" title="YOLO v3 Tiny" url="@ref omz_models_public_yolo_v3_tiny_tf_yolo_v3_tiny_tf"/>
                     <tab type="user" title="YOLO v4" url="@ref omz_models_public_yolo_v4_tf_yolo_v4_tf"/>
                 </tab>
                 <tab type="usergroup" title="Face Recognition" url="">
