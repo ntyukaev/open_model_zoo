@@ -45,14 +45,14 @@ Audio, name - `0`, shape - `1,1,1,L`, format is `N,C,1,L` where:
 
 ### Original Model
 
-Sound classifier (see [labels](./labels.txt)), name - `203`, shape - `1,53`, output data format is `N,C` where:
+Sound classifier (see the `labels.txt` file in the model's directory), name - `203`, shape - `1,53`, output data format is `N,C` where:
 
 - `N` - batch size
 - `C` - Predicted softmax scores for each class in [0, 1] range
 
 ### Converted Model
 
-Sound classifier (see [labels](./labels.txt)), name - `203`, shape - `1,53`, output data format is `N,C` where:
+Sound classifier (see the `labels.txt` file in the model's directory), name - `203`, shape - `1,53`, output data format is `N,C` where:
 
 - `N` - batch size
 - `C` - Predicted softmax scores for each class in [0, 1] range
