@@ -94,8 +94,7 @@ python3 human_pose_estimation.py -i <path_to_video>/inputVideo.mp4 -m <path_to_m
 ```
 
 To run the demo, you can use public or pre-trained models. You can download the pre-trained models with the OpenVINO
-[Model Downloader](../../../tools/downloader/README.md) or from
-[https://download.01.org/opencv/](https://download.01.org/opencv/).
+[Model Downloader](../../../tools/downloader/README.md).
 
 > **NOTE**: Before running the demo with a trained model, make sure the model is converted to the Inference Engine
 format (\*.xml + \*.bin) using the
