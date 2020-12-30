@@ -2,6 +2,13 @@
 
 ## Installation
 
+> **TIP**: You also can work with the Accuracy Checker inside the OpenVINO™ [Deep Learning Workbench](@ref workbench_docs_Workbench_DG_Introduction) (DL Workbench).
+> [DL Workbench](@ref workbench_docs_Workbench_DG_Introduction) is a platform built upon OpenVINO™ and provides a web-based graphical environment that enables you to optimize, fine-tune, analyze, visualize, and compare 
+> performance of deep learning models on various Intel® architecture
+> configurations. In the DL Workbench, you can use most of OpenVINO™ toolkit components.
+> <br>
+> Proceed to an [easy installation from Docker](@ref workbench_docs_Workbench_DG_Install_from_Docker_Hub) to get started.
+
 ### Prerequisites
 
 Install prerequisites first:
@@ -48,7 +55,7 @@ In order to evaluate some models required frameworks have to be installed. Accur
 - [MXNet](https://mxnet.apache.org/).
 - [OpenCV DNN](https://docs.opencv.org/4.1.0/d2/de6/tutorial_py_setup_in_ubuntu.html).
 - [TensorFlow](https://www.tensorflow.org/).
-- <a href="https://github.com/microsoft/onnxruntime/blob/master/README.md">ONNX Runtime</a>.
+- <a href="https://github.com/microsoft/onnxruntime/blob/master/README.md">ONNX Runtime</a>
 - [PyTorch](https://pytorch.org/)
 
 You can use any of them or several at a time. For correct work, Accuracy Checker requires at least one. You are able postpone installation of other frameworks and install them when they will be necessary.
